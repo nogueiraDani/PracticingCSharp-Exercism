@@ -12,4 +12,4 @@ Aqui aprofundo os meus conhecimentos em C# através dos exercicios do [Exercism]
   
 * [Boolean](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/annalyns-infiltration)
 
-* [Numbers(1)](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/cars-assemble)
+* [Numbers(1)](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/cars-assemble), [Numbers(2)](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/leap)
