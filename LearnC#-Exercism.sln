@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuciansLusciousLasagna", "l
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnnalynsInfiltration", "annalyns-infiltration\AnnalynsInfiltration.csproj", "{8B190196-28C4-468B-BBB8-860BE503FE2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsAssemble", "cars-assemble\CarsAssemble.csproj", "{D5CF23F3-CF0A-430B-A5B7-31339E202CC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8B190196-28C4-468B-BBB8-860BE503FE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B190196-28C4-468B-BBB8-860BE503FE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B190196-28C4-468B-BBB8-860BE503FE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5CF23F3-CF0A-430B-A5B7-31339E202CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5CF23F3-CF0A-430B-A5B7-31339E202CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5CF23F3-CF0A-430B-A5B7-31339E202CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5CF23F3-CF0A-430B-A5B7-31339E202CC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
