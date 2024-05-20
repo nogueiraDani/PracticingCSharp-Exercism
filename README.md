@@ -9,3 +9,7 @@ Aqui aprofundo os meus conhecimentos em C# através dos exercicios do [Exercism]
 * [Hello world](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/hello-world)
   
 * [Básico](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/lucians-luscious-lasagna)
+  
+* [Boolean](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/annalyns-infiltration)
+
+* [Numbers(1)](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/cars-assemble)
