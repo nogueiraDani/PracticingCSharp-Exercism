@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnnalynsInfiltration", "ann
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsAssemble", "cars-assemble\CarsAssemble.csproj", "{D5CF23F3-CF0A-430B-A5B7-31339E202CC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap", "leap\Leap.csproj", "{61DF36A3-DDF7-4E37-926C-B544E7645EFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D5CF23F3-CF0A-430B-A5B7-31339E202CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5CF23F3-CF0A-430B-A5B7-31339E202CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5CF23F3-CF0A-430B-A5B7-31339E202CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61DF36A3-DDF7-4E37-926C-B544E7645EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DF36A3-DDF7-4E37-926C-B544E7645EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DF36A3-DDF7-4E37-926C-B544E7645EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DF36A3-DDF7-4E37-926C-B544E7645EFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
