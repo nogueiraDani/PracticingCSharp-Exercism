@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsAssemble", "cars-assemb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap", "leap\Leap.csproj", "{61DF36A3-DDF7-4E37-926C-B544E7645EFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EliudsEggs", "eliuds-eggs\EliudsEggs.csproj", "{AA58464D-6320-43DF-8CA5-5543E8451A1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{61DF36A3-DDF7-4E37-926C-B544E7645EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61DF36A3-DDF7-4E37-926C-B544E7645EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61DF36A3-DDF7-4E37-926C-B544E7645EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA58464D-6320-43DF-8CA5-5543E8451A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA58464D-6320-43DF-8CA5-5543E8451A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA58464D-6320-43DF-8CA5-5543E8451A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA58464D-6320-43DF-8CA5-5543E8451A1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
