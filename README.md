@@ -15,3 +15,5 @@ Aqui aprofundo os meus conhecimentos em C# através dos exercicios do [Exercism]
 * [Numbers(1)](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/cars-assemble), [Numbers(2)](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/leap)
 
 * [DoWhile Loops](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/eliuds-eggs)
+
+* [Math Operations](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/difference-of-squares)
