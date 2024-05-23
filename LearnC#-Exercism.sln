@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap", "leap\Leap.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EliudsEggs", "eliuds-eggs\EliudsEggs.csproj", "{AA58464D-6320-43DF-8CA5-5543E8451A1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifferenceOfSquares", "difference-of-squares\DifferenceOfSquares.csproj", "{D35CBE47-71EC-4E17-8F2F-626191A01ACE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{AA58464D-6320-43DF-8CA5-5543E8451A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA58464D-6320-43DF-8CA5-5543E8451A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA58464D-6320-43DF-8CA5-5543E8451A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D35CBE47-71EC-4E17-8F2F-626191A01ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35CBE47-71EC-4E17-8F2F-626191A01ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35CBE47-71EC-4E17-8F2F-626191A01ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35CBE47-71EC-4E17-8F2F-626191A01ACE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
