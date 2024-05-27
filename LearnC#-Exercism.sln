@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EliudsEggs", "eliuds-eggs\E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifferenceOfSquares", "difference-of-squares\DifferenceOfSquares.csproj", "{D35CBE47-71EC-4E17-8F2F-626191A01ACE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestIsInteresting", "interest-is-interesting\InterestIsInteresting.csproj", "{85D2DFCC-EBE3-41B3-BCF9-3DB5FE579F84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D35CBE47-71EC-4E17-8F2F-626191A01ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D35CBE47-71EC-4E17-8F2F-626191A01ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D35CBE47-71EC-4E17-8F2F-626191A01ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85D2DFCC-EBE3-41B3-BCF9-3DB5FE579F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85D2DFCC-EBE3-41B3-BCF9-3DB5FE579F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85D2DFCC-EBE3-41B3-BCF9-3DB5FE579F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85D2DFCC-EBE3-41B3-BCF9-3DB5FE579F84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
