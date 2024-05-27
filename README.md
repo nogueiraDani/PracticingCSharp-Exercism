@@ -19,3 +19,5 @@ Aqui aprofundo os meus conhecimentos em C# através dos exercicios do [Exercism]
 * [Math Operations](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/difference-of-squares)
 
 * [Floating Point Numbers](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/interest-is-interesting)
+
+*[Randomness](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/roll-the-die)
