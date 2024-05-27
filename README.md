@@ -17,3 +17,5 @@ Aqui aprofundo os meus conhecimentos em C# através dos exercicios do [Exercism]
 * [DoWhile Loops](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/eliuds-eggs)
 
 * [Math Operations](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/difference-of-squares)
+
+* [Floating Point Numbers](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/interest-is-interesting)
