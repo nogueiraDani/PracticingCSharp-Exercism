@@ -25,3 +25,5 @@ Aqui aprofundo os meus conhecimentos em C# através dos exercicios do [Exercism]
 * [Strings](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/log-levels)
 
 * [Classes](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/elons-toys)
+
+* [Arrays](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/bird-watcher)
