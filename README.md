@@ -23,3 +23,5 @@ Aqui aprofundo os meus conhecimentos em C# através dos exercicios do [Exercism]
 * [Randomness](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/roll-the-die)
   
 * [Strings](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/log-levels)
+
+* [Classes](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/elons-toys)
