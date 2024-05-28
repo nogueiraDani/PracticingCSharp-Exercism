@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogLevels", "log-levels\Log
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElonsToys", "elons-toys\ElonsToys.csproj", "{B00F0AE4-4776-45AA-9C8F-AC0D06F1EEDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirdWatcher", "bird-watcher\BirdWatcher.csproj", "{855A5434-1C39-49FF-88ED-2F84AE401621}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{B00F0AE4-4776-45AA-9C8F-AC0D06F1EEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B00F0AE4-4776-45AA-9C8F-AC0D06F1EEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B00F0AE4-4776-45AA-9C8F-AC0D06F1EEDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{855A5434-1C39-49FF-88ED-2F84AE401621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855A5434-1C39-49FF-88ED-2F84AE401621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855A5434-1C39-49FF-88ED-2F84AE401621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855A5434-1C39-49FF-88ED-2F84AE401621}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
