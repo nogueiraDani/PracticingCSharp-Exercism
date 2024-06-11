@@ -27,3 +27,5 @@ Aqui aprofundo os meus conhecimentos em C# através dos exercicios do [Exercism]
 * [Classes](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/elons-toys)
 
 * [Arrays](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/bird-watcher)
+
+* [Char](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/squeaky-clean)
