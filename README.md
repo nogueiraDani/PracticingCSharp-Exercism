@@ -12,7 +12,7 @@ Aqui aprofundo os meus conhecimentos em C# através dos exercicios do [Exercism]
   
 * [Boolean](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/annalyns-infiltration)
 
-* [Numbers(1)](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/cars-assemble), [Numbers(2)](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/leap)
+* [Numbers_1](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/cars-assemble), [Numbers_2](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/leap)
 
 * [DoWhile Loops](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/eliuds-eggs)
 
@@ -24,7 +24,7 @@ Aqui aprofundo os meus conhecimentos em C# através dos exercicios do [Exercism]
   
 * [Strings](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/log-levels)
 
-* [Classes](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/elons-toys)
+* [Classes_1](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/elons-toys), [Classes_2](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/need-for-speed)
 
 * [Arrays](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/bird-watcher)
 
