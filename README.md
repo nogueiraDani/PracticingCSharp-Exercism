@@ -22,7 +22,7 @@ Aqui aprofundo os meus conhecimentos em C# através dos exercicios do [Exercism]
 
 * [Randomness](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/roll-the-die)
   
-* [Strings](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/log-levels)
+* [Strings_1](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/log-levels), [Strings_2](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/pangram)
 
 * [Classes_1](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/elons-toys), [Classes_2](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/need-for-speed)
 
