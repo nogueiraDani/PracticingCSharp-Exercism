@@ -33,3 +33,5 @@ Aqui aprofundo os meus conhecimentos em C# através dos exercicios do [Exercism]
 * [DateTime](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/booking-up-for-beauty)
 
 * [Inheritance](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/wizards-and-warriors)
+
+* [Integral Numbers](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/hyper-optimized-telemetry)
