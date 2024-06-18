@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperOptimizedTelemetry", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangram", "pangram\Pangram.csproj", "{19A7D8A8-2A5A-4B31-BE77-045FEC1206D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isogram", "isogram\Isogram.csproj", "{16E828D0-7E33-4FF9-8A1E-7DF325FF2956}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{19A7D8A8-2A5A-4B31-BE77-045FEC1206D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19A7D8A8-2A5A-4B31-BE77-045FEC1206D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19A7D8A8-2A5A-4B31-BE77-045FEC1206D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E828D0-7E33-4FF9-8A1E-7DF325FF2956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E828D0-7E33-4FF9-8A1E-7DF325FF2956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E828D0-7E33-4FF9-8A1E-7DF325FF2956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E828D0-7E33-4FF9-8A1E-7DF325FF2956}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
