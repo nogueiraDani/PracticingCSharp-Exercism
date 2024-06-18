@@ -9,22 +9,8 @@ public static class Isogram
 {
     public static bool IsIsogram(string word)
     {
-        string newWord = word
-        .ToLower()
-        .Replace("-", "")
-        .Replace(" ", "");
-
-        HashSet<char> letters = [];
-
-        foreach (char c in newWord)
-        {
-            if (letters.Contains(c))
-            {
-                return false;
-            }
-            letters.Add(c);
-        }
-        return true;
+        var newWord = word.ToLower().Where(char.IsLetter).ToList();
+        return newWord.Distinct().Count() == newWord.Count;
     }
 }
 
