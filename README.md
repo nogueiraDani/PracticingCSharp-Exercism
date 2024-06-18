@@ -35,3 +35,5 @@ Aqui aprofundo os meus conhecimentos em C# através dos exercicios do [Exercism]
 * [Inheritance](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/wizards-and-warriors)
 
 * [Integral Numbers](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/hyper-optimized-telemetry)
+
+* [Lists](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/tracks-on-tracks-on-tracks)
