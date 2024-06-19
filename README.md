@@ -41,3 +41,5 @@ Aqui aprofundo os meus conhecimentos em C# através dos exercicios do [Exercism]
 * [Dictionaries](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/international-calling-connoisseur)
 
 * [Nullability](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/tim-from-marketing)
+
+* [Switch Statements](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/football-match-reports)
