@@ -43,3 +43,5 @@ Aqui aprofundo os meus conhecimentos em C# através dos exercicios do [Exercism]
 * [Nullability](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/tim-from-marketing)
 
 * [Switch Statements](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/football-match-reports)
+
+* [Enums](https://github.com/nogueiraDani/PracticingCSharp-Exercism/tree/main/logs-logs-logs)
