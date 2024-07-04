@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimFromMarketing", "tim-fro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballMatchReports", "football-match-reports\FootballMatchReports.csproj", "{DF6B17E5-DDBD-4501-85A8-D2DE11AEBD4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsLogsLogs", "logs-logs-logs\LogsLogsLogs.csproj", "{2656A64E-61B9-4003-8502-293631D037DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{DF6B17E5-DDBD-4501-85A8-D2DE11AEBD4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF6B17E5-DDBD-4501-85A8-D2DE11AEBD4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF6B17E5-DDBD-4501-85A8-D2DE11AEBD4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2656A64E-61B9-4003-8502-293631D037DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2656A64E-61B9-4003-8502-293631D037DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2656A64E-61B9-4003-8502-293631D037DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2656A64E-61B9-4003-8502-293631D037DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
